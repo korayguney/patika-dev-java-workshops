@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>workshop-01</module>
+        <module>workshop-02</module>
     </modules>
 
     <properties>
